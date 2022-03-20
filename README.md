@@ -1,4 +1,4 @@
-# An Intor to Quantum Compuing with Qiskit
+# An Intro to Quantum Compuing with Qiskit
 
 ## About
 This repository contains the code and notes for the Lunch and Learn session held for Capgemini DCX UK 2022-04-01.
