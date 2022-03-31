@@ -77,16 +77,21 @@ A another important problem is prime factorisation. That's answering questions s
 
 ## Demo: Shor's Algorithm with Qiskit
 
+![Quantum circuit for Shor's Algorithm](../notebooks/quantum-circuit.png)
+
 Key points:
 - Python is very approachable
 - Quantum functions are standard python functions, so we can use all of our composability tooling for quantum computation already.
 - Simulated quantum computers are easily available to develop skills on
 
-## Maybe Demo: Running quantum programs in the cloud
+## Show: Running quantum programs in the cloud
+
+![IBM quantum Composer](./ibm-quantum-composer.png)
 
 Key points:
 - Real quantum computers now generally available
 - Very active commercial space developing
+- Massive efforts to simplify UX and interface
 
 ## A digression: Post-Quantum Cryptography
 So, ok, you can solve certain problems much faster, great. So what? 
@@ -140,7 +145,7 @@ https://csrc.nist.gov/Projects/post-quantum-cryptography
 
 ## Thank you and Q&A
 
+## Resources
 
-
-
-
+- [Qiskit Textbook](https://qiskit.org/textbook/preface.html)
+- [Quantum Algorithm Implementation for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
