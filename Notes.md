@@ -77,7 +77,16 @@ A another important problem is prime factorisation. That's answering questions s
 
 ## Demo: Shor's Algorithm with Qiskit
 
+Key points:
+- Python is very approachable
+- Quantum functions are standard python functions, so we can use all of our composability tooling for quantum computation already.
+- Simulated quantum computers are easily available to develop skills on
+
 ## Maybe Demo: Running quantum programs in the cloud
+
+Key points:
+- Real quantum computers now generally available
+- Very active commercial space developing
 
 ## A digression: Post-Quantum Cryptography
 So, ok, you can solve certain problems much faster, great. So what? 
