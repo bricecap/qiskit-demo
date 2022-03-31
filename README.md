@@ -12,9 +12,11 @@ The [Qiskit textbook](https://qiskit.org/textbook/what-is-quantum.html) is appro
 In the root of this repository, run: 
 
 ```
-$ docker built . -t qiskit-demo
-$ docker run -ti --rm -p 8888:8888 qiskit-demo
+$ make build
+$ make run
 ```
+
+You will need Docker and Make.
 
 Then navigate to http://localhost:8888/ in your browser.
 
