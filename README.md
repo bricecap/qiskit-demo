@@ -19,4 +19,4 @@ $ docker run -ti --rm -p 8888:8888 qiskit-demo
 Then navigate to http://localhost:8888/ in your browser.
 
 ## Talk notes 
-I have included the rough outline of the presentation in the [Notes.md](./Notes.md) file.
+I have included the rough outline of the presentation in the [Notes.md](./docs/Notes.md) file.

@@ -79,10 +79,17 @@ A another important problem is prime factorisation. That's answering questions s
 
 ![Quantum circuit for Shor's Algorithm](../notebooks/quantum-circuit.png)
 
-Key points:
-- Python is very approachable
-- Quantum functions are standard python functions, so we can use all of our composability tooling for quantum computation already.
-- Simulated quantum computers are easily available to develop skills on
+1. **The tools are very approachable**
+    
+    It took me only an hour or so to package the demo. Little bit more to clean up an existing notebook into a minimal viable implementation. 
+
+2. **Quantum computation can be integrated directly into current computation**
+    
+    Making existing composability tools (such as functions, modules, APIs, and so on) available for free for application to quantum computing.
+
+3. **Simulators can be used to develop skills**
+    
+    Quantum computing can be simulated with classical computers, which mean that we can develop the theoretical and practical skills now on this emerging technology.
 
 ## Show: Running quantum programs in the cloud
 
@@ -148,4 +155,5 @@ https://csrc.nist.gov/Projects/post-quantum-cryptography
 ## Resources
 
 - [Qiskit Textbook](https://qiskit.org/textbook/preface.html)
+- [Qiskit Textbook 2.0](https://qiskit.org/textbook-beta/)
 - [Quantum Algorithm Implementation for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
